@@ -14,3 +14,6 @@ sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 0xF1656F24C74CD1D8
 
 # Update daftar paket
 sudo apt-get update
+
+#install mariadb-server
+sudo apt-get install mariadb-server
